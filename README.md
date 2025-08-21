@@ -32,3 +32,6 @@ Project Name: A brief description of the project. [Tech stack: e.g., React, Node
 Project Name: A brief description of the project. [Tech stack: e.g., Python, Flask]
 
 Thanks for visiting! Let's build something awesome together! ✨
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Liki67&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Liki67&layout=compact&theme=radical)
